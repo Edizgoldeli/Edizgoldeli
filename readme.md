@@ -18,4 +18,6 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.iso.org/standard/74528.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.arduino.cc" target="_blank"> <img src="https://user-images.githubusercontent.com/38820143/208604775-5406e024-66b2-4432-ae7d-604209f84f24.svg" alt="arduino" width="40" height="40"/> </a> 
+
  </p>
