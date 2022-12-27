@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ediz Göldeli!</h1>
 
-- 📄 Know about my experiences via my [LinkedIn page](https://www.linkedin.com/in/ediz-göldeli-054765139/)
+- 📄 Know about my experiences via my [LinkedIn page](https://www.linkedin.com/in/edizgoldeli/)
 
 - 📫 Don't hesitate to touch with me on **edizgoldeli@hotmail.com**
 <br><br><br>
